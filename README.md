@@ -1,1 +1,3 @@
-# python_Exercises
+# Exercícios de Python
+
+Curso em vídeo.
